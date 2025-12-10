@@ -69,8 +69,6 @@ Used to identify the most influential actors in the network.
 
 ```text
 .
-├── data/                    # Input datasets (overview, movies, reviews)
-├── notebooks/               # Jupyter Notebooks for analysis
-├── scripts/                 # Data collection and processing scripts
-├── figures/                 # Generated plots and network visualizations
+├── explainer.ipynb          # Jupyter Notebooks for analysis
+├── images/                  # Generated plots and network visualizations
 ├── README.md                # Project documentation
